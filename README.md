@@ -10,4 +10,4 @@
 - VADER on the other hand is faster and easier to implement. However it struggled with long reviews and couldn't capture subtle nuances as effectively as RoBERTa. It's better suited for rapid sentiment analysis of social media posts, especially when speed is a priority and the text is relatively simple
 
 ## Dataset Link
-[](https://www.kaggle.com/datasets/rachelkiarie/sentiment-analysisds)
+[Amazon Reviews Dataset](https://www.kaggle.com/datasets/rachelkiarie/sentiment-analysisds)
